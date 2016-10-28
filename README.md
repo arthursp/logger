@@ -3,7 +3,12 @@ Node JS Websocket Logger
 
 ## Usage
 
+`node index.js`
+
+Start a server on port 5000
+
 [Look at the socket io client reference](https://github.com/socketio/socket.io-client)
+
 ## Integration with Angular 2
 
 Create a service like this : 
