@@ -3,7 +3,7 @@ Node JS Websocket Logger
 
 ## Usage
 
-[Look at the socket io client reference :](https://github.com/socketio/socket.io-client)
+[Look at the socket io client reference](https://github.com/socketio/socket.io-client)
 ## Integration with Angular 2
 
 Create a service like this : 
